@@ -1,0 +1,5 @@
+Website to Scrape: https://research.com/scientists-rankings/computer-science
+
+ChromeDriver Download URL: https://chromedriver.chromium.org/downloads
+
+Selenium Python Documentation: https://selenium-python.readthedocs.io/installation.html
