@@ -11,6 +11,12 @@ Later we utilized the scraped data to understand the following demographics and 
 
 You can visit the public dashboard [here](https://public.tableau.com/app/profile/mohammad.sabik.s.irbaz/viz/DemographicsofBestCSScientistsWorldwide/Dashboard1). 
 
+## Findings and Observations from the [Dashboard](https://public.tableau.com/app/profile/mohammad.sabik.s.irbaz/viz/DemographicsofBestCSScientistsWorldwide/Dashboard1)
+1. Brazilian scientists have the highest average publications.
+2. Researchers from King Abdullah University of Science and Technology (KAUST), Saudi Arabia have the highest number of average citations. 
+3. Among European countries, United Kingdom (UK) has the highest number of scientists among the top 1000.
+4. The ranking was done most probably using H-Index.
+
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
