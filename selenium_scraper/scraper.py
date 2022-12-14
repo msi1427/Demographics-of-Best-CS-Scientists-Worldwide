@@ -2,6 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--chromedrive_path', type=str, help="Check where the Chromedriver is in your PC and share the path")
+args = parser.parse_args()
+
 columns = ["World Rank", "National Rank", "Name", "Image URLs", "Affiliation", "Country", "H-Index", "Citations", "#DBLP"]
 
 def get_scholar_details(row):
@@ -20,7 +25,7 @@ def get_scholar_details(row):
 
 
 def main():
-    webdriver_path = "C:\Program Files (x86)\chromedriver.exe"
+    webdriver_path = parser.chromedrive_path
     scholar_data = []
 
     for page_id in range(1,11): 
