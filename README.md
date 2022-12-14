@@ -1,6 +1,6 @@
 # Demographics-of-Best-CS-Scientists-Worldwide
 
-## Build From Sources
+## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
 git clone https://github.com/msi1427/Demographics-of-Best-CS-Scientists-Worldwide.git
