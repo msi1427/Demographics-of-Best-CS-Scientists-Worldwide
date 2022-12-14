@@ -1,7 +1,7 @@
 # Demographics-of-Best-CS-Scientists-Worldwide
 
 ## Problem Statement
-The goal of this project is to gather information of best 1000 Computer Science researchers from this website: https://research.com/scientists-rankings/computer-science
+The goal of this project is to gather information of best 1000 Computer Science researchers from [this website](https://research.com/scientists-rankings/computer-science). <br/> 
 Later we utilized the scraped data to understand the following demographics and correlations using Tableau Dashboard: 
 
 1. A barchart of countries with average publications.
@@ -9,7 +9,7 @@ Later we utilized the scraped data to understand the following demographics and 
 3. Which Middle Eastern universities are good at research? (using citations as metric)
 4. Which column is directly correlated with World Rank column? We wanted to understand how the ranking was done.
 
-You can visit the public dashboard here: https://public.tableau.com/app/profile/mohammad.sabik.s.irbaz/viz/DemographicsofBestCSScientistsWorldwide/Dashboard1
+You can visit the public dashboard [here](https://public.tableau.com/app/profile/mohammad.sabik.s.irbaz/viz/DemographicsofBestCSScientistsWorldwide/Dashboard1). 
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
